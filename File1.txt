@@ -1,6 +1,5 @@
 This is a new file name File1
 
 
-
-
 This is a line in branch
+
