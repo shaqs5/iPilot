@@ -1,0 +1,12 @@
+.hr-line-dashed {
+    border-top: 1px dashed #a1a1a1;
+    color: #ffffff;
+    background-color: #ffffff;
+    height: 1px;
+  }
+
+table.dataTable thead .sorting, 
+table.dataTable thead .sorting_asc, 
+table.dataTable thead .sorting_desc {
+    background : none;
+}
